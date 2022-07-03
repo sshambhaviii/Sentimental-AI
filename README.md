@@ -21,6 +21,7 @@ Implement a Neural Network from scratch. The goal is to use NumPy to make the Ne
 The goal of this assignment was to generate Shakespeare text using Long Short Term Memory Models and Recurrent Neural Networks.
 
 ## Assignment 3
-The assignment focuses on detecting emotion in the text. Implement a research paper- https://thesai.org/Downloads/Volume10No6/Paper_45-Emotion_Detection_in_Text.pdf This paper describes 2 LSTM networks to detect emotions from text- a vanilla LSTM and a nested LSTM out of which any one can be implemented. The primary task was to tweak the architecture described in the paper (changing hyperparameters, number of layers/units etc.) to achieve highest validation accuracy. 
+The assignment focuses on detecting emotion in the text. Implemented a research paper- https://thesai.org/Downloads/Volume10No6/Paper_45-Emotion_Detection_in_Text.pdf 
+This paper describes 2 LSTM networks to detect emotions from text- a vanilla LSTM and a nested LSTM out of which any one can be implemented. The primary task was to tweak the architecture described in the paper (changing hyperparameters, number of layers/units etc.) to achieve highest validation accuracy. 
 Dataset used : huggingface tweet emotion dataset. It has about 16k tweets classified into 6 emotions for training.
 
